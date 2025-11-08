@@ -4,7 +4,7 @@ Esta é uma aplicação Fullstack completa, containerizada com Docker, que imple
 
 # Procedimento para executar o projeto
 ## Construa os containers:
-Este comando irá construir as imagens do backend e frontend e iniciar os três containers (db, backend, frontend) em modo "detached" (em segundo plano). `docker-compose up -d --build`
+Este comando irá construir as imagens do backend e frontend e iniciar os três containers (db, backend, frontend) em modo "detached" (em segundo plano). `docker-compose up --build -d`
 
 # URL do Cliente Angular
 http://localhost:4200
