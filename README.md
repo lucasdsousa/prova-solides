@@ -10,7 +10,7 @@ Este comando irá construir as imagens do backend e frontend e iniciar os três 
 http://localhost:4200
 
 # URL da API Django
-http://localhost:8000
+http://localhost:8000/api
 
 #
 Desenvolvido por Lucas Santana
